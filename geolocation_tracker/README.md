@@ -13,6 +13,11 @@ It fetches the public IP address of a user and determines their geographical loc
 - Python 3.x
 - Libraries: `requests`, `folium`
 
-## How to Run
+## Setup and Usage
+
+### 1. Install Dependencies
+
+Make sure Python 3 is installed. Then install required Python packages:
+
 ```bash
-python geolocation_tracker.py
+pip install requests folium
